@@ -9,3 +9,5 @@ git reset HEAD file
 git log
 git reflog
 git rm
+第一次推送分支：git push -u origin master
+git push origin master
