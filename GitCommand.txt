@@ -2,6 +2,8 @@ git add
 git commit --m "something"
 git diff
 git status
+git reset --hard HEAD^
+git reset --hard 1094a
 git restore -- file
 git reset HEAD file
 git log
