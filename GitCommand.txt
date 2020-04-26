@@ -1,0 +1,8 @@
+git add
+git commit --m "something"
+git diff
+git status
+git restore -- file
+git reset HEAD file
+git log
+git reflog
